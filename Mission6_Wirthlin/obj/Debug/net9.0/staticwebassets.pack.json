@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/images/JoelHiltonHeadshot.jpg",
+      "PackagePath": "staticwebassets/images/JoelHiltonHeadshot.jpg"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Mission6_Wirthlin.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Mission6_Wirthlin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.Mission6_Wirthlin.props",
+      "PackagePath": "build\\Mission6_Wirthlin.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Mission6_Wirthlin.props",
+      "PackagePath": "buildMultiTargeting\\Mission6_Wirthlin.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Mission6_Wirthlin.props",
+      "PackagePath": "buildTransitive\\Mission6_Wirthlin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

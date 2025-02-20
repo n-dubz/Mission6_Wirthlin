@@ -1,0 +1,8 @@
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net6.0/Mission6_Wirthlin.csproj.AssemblyReference.cache
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net6.0/Mission6_Wirthlin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net6.0/Mission6_Wirthlin.AssemblyInfoInputs.cache
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net6.0/Mission6_Wirthlin.AssemblyInfo.cs
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net6.0/Mission6_Wirthlin.csproj.CoreCompileInputs.cache
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net6.0/Mission6_Wirthlin.MvcApplicationPartsAssemblyInfo.cache
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net6.0/Mission6_Wirthlin.RazorAssemblyInfo.cache
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net6.0/Mission6_Wirthlin.RazorAssemblyInfo.cs

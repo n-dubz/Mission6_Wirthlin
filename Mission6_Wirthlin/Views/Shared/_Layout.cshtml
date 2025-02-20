@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title - The Joel Hilton Film Collection</title>
+    <!-- If you have a CSS file in wwwroot/css/site.css, reference it here: -->
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+<header>
+    <nav>
+        <ul>
+            <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+            <li><a asp-controller="Home" asp-action="GetToKnowJoel">Get to Know Joel</a></li>
+            <li><a asp-controller="Movies" asp-action="Create">Add Movie</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    @RenderBody()
+</main>
+
+<footer>
+    <p>&copy; 2025 Joel Hilton Film Collection</p>
+</footer>
+
+@RenderSection("Scripts", required: false)
+</body>
+</html>
