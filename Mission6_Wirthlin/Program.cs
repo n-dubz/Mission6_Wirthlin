@@ -12,8 +12,9 @@ builder.Services.AddControllersWithViews();
 
 // Configure EF Core with SQLite
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlite("Data Source=movies.db")
-);
+    options.UseSqlite("Data Source=movies.db"));
+
+
 
 var app = builder.Build();
 
