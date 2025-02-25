@@ -46,12 +46,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
-              "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.2, )"
             }
           },
           "imports": [

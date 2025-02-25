@@ -141,3 +141,14 @@
 /Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net9.0/Mission6_Wirthlin.genruntimeconfig.cache
 /Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net9.0/ref/Mission6_Wirthlin.dll
 /Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/bin/Debug/net9.0/Mission6_Wirthlin.staticwebassets.runtime.json
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net9.0/Mission6_Wirthlin.sourcelink.json
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/bin/Debug/net9.0/System.Text.Json.dll

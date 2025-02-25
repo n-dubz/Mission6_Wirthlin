@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Mission6_Wirthlin/images/converted_image (2).jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\converted_image (2).jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jl7/XfqAqVojwJqDztyZzkCeftd6qf8aWwp4sYXUTOA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"116793"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jl7/XfqAqVojwJqDztyZzkCeftd6qf8aWwp4sYXUTOA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Feb 2025 23:51:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mission6_Wirthlin/images/converted_image (2).q15cqcfvhg.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\converted_image (2).jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q15cqcfvhg"},{"Name":"integrity","Value":"sha256-jl7/XfqAqVojwJqDztyZzkCeftd6qf8aWwp4sYXUTOA="},{"Name":"label","Value":"_content/Mission6_Wirthlin/images/converted_image (2).jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"116793"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jl7/XfqAqVojwJqDztyZzkCeftd6qf8aWwp4sYXUTOA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Feb 2025 23:51:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Mission6_Wirthlin/images/JoelHiltonHeadshot.ad4h7hfit8.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\JoelHiltonHeadshot.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -11,6 +23,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ohR8vB7Ha4SmGumVcQA4Sme3kx\u002By\u002BqDcyvbDEqAjSYQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"25767"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ohR8vB7Ha4SmGumVcQA4Sme3kx\u002By\u002BqDcyvbDEqAjSYQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 02:35:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mission6_Wirthlin/images/super_powers_small.3uuadxtpn5.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\super_powers_small.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3uuadxtpn5"},{"Name":"integrity","Value":"sha256-mxu4VflgLUxzpCHQR9IMrQg0kYOLbNjp7RmRdR8Ylu4="},{"Name":"label","Value":"_content/Mission6_Wirthlin/images/super_powers_small.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"115194"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022mxu4VflgLUxzpCHQR9IMrQg0kYOLbNjp7RmRdR8Ylu4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Feb 2025 23:49:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mission6_Wirthlin/images/super_powers_small.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\super_powers_small.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mxu4VflgLUxzpCHQR9IMrQg0kYOLbNjp7RmRdR8Ylu4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"115194"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022mxu4VflgLUxzpCHQR9IMrQg0kYOLbNjp7RmRdR8Ylu4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Feb 2025 23:49:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

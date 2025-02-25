@@ -1,20 +1,21 @@
+
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Builder;
+
 
 namespace Mission6_Wirthlin.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: /Home/Index
         public IActionResult Index()
         {
-            // Displays "The Joel Hilton Film Collection" and Joel's image.
+            // Renders Views/Home/Index.cshtml
             return View();
         }
 
-        // GET: /Home/GetToKnowJoel
         public IActionResult GetToKnowJoel()
         {
-            // Displays links to Quick Wits Comedy and Baconsale, plus the Baconsale image.
+            // Renders Views/Home/GetToKnowJoel.cshtml
             return View();
         }
     }

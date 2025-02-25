@@ -1,8 +1,16 @@
 {
   "Files": [
     {
+      "Id": "/Users/nicko/Downloads/super_powers_small.webp",
+      "PackagePath": "staticwebassets/images/super_powers_small.webp"
+    },
+    {
       "Id": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/images/JoelHiltonHeadshot.jpg",
       "PackagePath": "staticwebassets/images/JoelHiltonHeadshot.jpg"
+    },
+    {
+      "Id": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/images/converted_image (2).jpeg",
+      "PackagePath": "staticwebassets/images/converted_image (2).jpeg"
     },
     {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Mission6_Wirthlin.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

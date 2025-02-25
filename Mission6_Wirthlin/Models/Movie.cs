@@ -1,6 +1,6 @@
-#nullable enable
-
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Builder;
+
 namespace Mission6_Wirthlin.Models
 {
     public class Movie
@@ -8,21 +8,19 @@ namespace Mission6_Wirthlin.Models
         public int MovieId { get; set; }
 
         [Required]
-        public string Title { get; set; }
+        public string Title { get; set; } = string.Empty;
 
         [Required]
-        public string Category { get; set; }  // e.g., Genre
+        public string Category { get; set; } = string.Empty;
 
         [Required]
-        public string Director { get; set; }
+        public string Director { get; set; } = string.Empty;
 
         [Required]
-        public string Rating { get; set; } // Dropdown options: G, PG, PG-13, R
+        public string Rating { get; set; } = string.Empty;  // Should be one of: G, PG, PG-13, R
 
-        [Required]
         public bool Edited { get; set; }  // Yes/No option
 
-        // These fields are optional
         public string? LentTo { get; set; }
 
         [MaxLength(25)]

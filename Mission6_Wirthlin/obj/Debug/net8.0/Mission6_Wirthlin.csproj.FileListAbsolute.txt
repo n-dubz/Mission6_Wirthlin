@@ -154,3 +154,5 @@
 /Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net8.0/Mission6_Wirthlin.pdb
 /Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net8.0/Mission6_Wirthlin.genruntimeconfig.cache
 /Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net8.0/ref/Mission6_Wirthlin.dll
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/bin/Debug/net8.0/Mission6_Wirthlin.staticwebassets.runtime.json
+/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/obj/Debug/net8.0/Mission6_Wirthlin.sourcelink.json

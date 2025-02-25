@@ -1,12 +1,125 @@
 {
   "Version": 1,
-  "Hash": "T8Z185QwhqEIeN3oraxJudZncH+oF+pIdjVvcPw9Xcc=",
+  "Hash": "Hn/+/MMny9hZu9K5E4twhy5S5nW+bHORZe3DpFeGQRI=",
   "Source": "Mission6_Wirthlin",
   "BasePath": "_content/Mission6_Wirthlin",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mission6_Wirthlin/wwwroot",
+      "Source": "Mission6_Wirthlin",
+      "ContentRoot": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/",
+      "BasePath": "_content/Mission6_Wirthlin",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/images/JoelHiltonHeadshot.jpg",
+      "SourceId": "Mission6_Wirthlin",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/",
+      "BasePath": "_content/Mission6_Wirthlin",
+      "RelativePath": "images/JoelHiltonHeadshot#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ad4h7hfit8",
+      "Integrity": "ohR8vB7Ha4SmGumVcQA4Sme3kx+y+qDcyvbDEqAjSYQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/JoelHiltonHeadshot.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/JoelHiltonHeadshot.ad4h7hfit8.jpg",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/images/JoelHiltonHeadshot.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohR8vB7Ha4SmGumVcQA4Sme3kx+y+qDcyvbDEqAjSYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 02:35:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ad4h7hfit8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/JoelHiltonHeadshot.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohR8vB7Ha4SmGumVcQA4Sme3kx+y+qDcyvbDEqAjSYQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/JoelHiltonHeadshot.jpg",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/images/JoelHiltonHeadshot.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohR8vB7Ha4SmGumVcQA4Sme3kx+y+qDcyvbDEqAjSYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 02:35:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohR8vB7Ha4SmGumVcQA4Sme3kx+y+qDcyvbDEqAjSYQ="
+        }
+      ]
+    }
+  ]
 }

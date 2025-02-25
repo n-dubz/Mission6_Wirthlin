@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Hn/+/MMny9hZu9K5E4twhy5S5nW+bHORZe3DpFeGQRI=",
+  "Hash": "0eAWjb7GGpAbsP4Q71qza0Z71ZlfBAmQ30obODDiEdM=",
   "Source": "Mission6_Wirthlin",
   "BasePath": "_content/Mission6_Wirthlin",
   "Mode": "Default",
@@ -16,6 +16,48 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/nicko/Downloads/super_powers_small.webp",
+      "SourceId": "Mission6_Wirthlin",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/",
+      "BasePath": "_content/Mission6_Wirthlin",
+      "RelativePath": "images/super_powers_small#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3uuadxtpn5",
+      "Integrity": "mxu4VflgLUxzpCHQR9IMrQg0kYOLbNjp7RmRdR8Ylu4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "../../../Downloads/super_powers_small.webp"
+    },
+    {
+      "Identity": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/images/converted_image (2).jpeg",
+      "SourceId": "Mission6_Wirthlin",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/",
+      "BasePath": "_content/Mission6_Wirthlin",
+      "RelativePath": "images/converted_image (2)#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q15cqcfvhg",
+      "Integrity": "jl7/XfqAqVojwJqDztyZzkCeftd6qf8aWwp4sYXUTOA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/converted_image (2).jpeg"
+    },
     {
       "Identity": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/images/JoelHiltonHeadshot.jpg",
       "SourceId": "Mission6_Wirthlin",
@@ -39,6 +81,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "images/converted_image (2).jpeg",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/images/converted_image (2).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jl7/XfqAqVojwJqDztyZzkCeftd6qf8aWwp4sYXUTOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:51:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jl7/XfqAqVojwJqDztyZzkCeftd6qf8aWwp4sYXUTOA="
+        }
+      ]
+    },
+    {
+      "Route": "images/converted_image (2).q15cqcfvhg.jpeg",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/images/converted_image (2).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jl7/XfqAqVojwJqDztyZzkCeftd6qf8aWwp4sYXUTOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:51:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q15cqcfvhg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/converted_image (2).jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jl7/XfqAqVojwJqDztyZzkCeftd6qf8aWwp4sYXUTOA="
+        }
+      ]
+    },
     {
       "Route": "images/JoelHiltonHeadshot.ad4h7hfit8.jpg",
       "AssetFile": "/Users/nicko/RiderProjects/Mission6_Wirthlin/Mission6_Wirthlin/wwwroot/images/JoelHiltonHeadshot.jpg",
@@ -118,6 +242,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-ohR8vB7Ha4SmGumVcQA4Sme3kx+y+qDcyvbDEqAjSYQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/super_powers_small.3uuadxtpn5.webp",
+      "AssetFile": "/Users/nicko/Downloads/super_powers_small.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mxu4VflgLUxzpCHQR9IMrQg0kYOLbNjp7RmRdR8Ylu4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:49:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3uuadxtpn5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/super_powers_small.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mxu4VflgLUxzpCHQR9IMrQg0kYOLbNjp7RmRdR8Ylu4="
+        }
+      ]
+    },
+    {
+      "Route": "images/super_powers_small.webp",
+      "AssetFile": "/Users/nicko/Downloads/super_powers_small.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mxu4VflgLUxzpCHQR9IMrQg0kYOLbNjp7RmRdR8Ylu4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:49:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mxu4VflgLUxzpCHQR9IMrQg0kYOLbNjp7RmRdR8Ylu4="
         }
       ]
     }
